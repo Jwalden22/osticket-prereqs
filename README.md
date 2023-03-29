@@ -31,7 +31,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/bF9KvKg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I first created a Virtual Machine in Azure.   From there I then Remote Desktop into the VM and enabled IIS in Windows with CGI.  I then went on to download and install a prerequisite software needed to support the osTicket, things like PHP Manager for IIS,  MySQL, and  HeidiSQL.
 </p>
 <br />
 
